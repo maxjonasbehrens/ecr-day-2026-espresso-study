@@ -4,4 +4,4 @@ Participant materials for the ISCB–GMDS Early Career Day interactive session, 
 
 Workshop draft, version 1.1. All study records are synthetic. Human rehearsal remains pending.
 
-This repository contains only the participant-facing page and station inputs. Facilitator notes, checking slips and delayed reflection are distributed separately.
+The participant page contains the station inputs. Facilitator notes, checking slips and delayed reflection are available separately in the facilitator/ folder. They are public but are not linked from the participant page.

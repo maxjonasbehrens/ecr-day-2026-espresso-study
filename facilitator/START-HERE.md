@@ -10,6 +10,8 @@ Do not introduce the delegation reflection before work begins. Give an open task
 ## Room and preparation
 Four fixed stations; no rotation. Up to 40 people means roughly ten per table, ideally small teams of two or three sharing a laptop. Have the four supplied devices logged in and tested as backup. If only those devices are available, let small teams prepare requests/checks on paper and take turns at the shared device; this gives less individual hands-on time and is a fallback, not the preferred arrangement.
 
+Max reported after the 17 September meeting that he successfully tried the workflow with a free Claude account in normal chat. This is a reported hands-on check, not a guarantee that every account or station was tested. A paid subscription is not required. Use the participant page's chat guide for setup; help teams with usage or upload limits without asking them to upgrade.
+
 One facilitator per station; the lead can cover one. Station 2 needs an agent capable of executing analysis/plotting code. Test the actual account, file upload and code execution before the event; a paid plan alone does not guarantee the needed capability. Stations 3 and 4 can use a text chat; provide sources explicitly if browsing is unavailable. Invite existing laptops/accounts in advance; no subscription purchase required.
 
 Unzip every participant pack onto each backup device before the session. Keep this facilitator ZIP separate. Print the late-release HTML slips with the browser print function. Bring station numbers and printed starting cards. No large screen is needed: each station appoints a speaker, who can describe the result or show a laptop locally.
@@ -43,3 +45,5 @@ Do not compare teams by number of corrections or amount of delegation. There is 
 ## Using the two-question check slips
 
 Give teams only the two questions for their station. For Station 1, participant ID means researcher_id in the supplied data, not someone at the table. Station 2 assumes a biostatistics audience and asks them to inspect the agent's analysis. If a team has only the prepared fallback figure and no code or calculations, say that the first check cannot be completed from that figure alone; do not treat the reference note as proof of correct computation. Discuss the second question with the material available.
+
+Claude upload/file-creation instructions were checked against the official help on 17 September 2026: https://support.claude.com/en/articles/8241126-upload-files-to-claude and https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude. File creation/code execution are available on Free; usage limits still apply.

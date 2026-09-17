@@ -19,18 +19,11 @@ not dismiss the exercise because the data are simulated. Supply factual results
 and definitions, not the intended purchasing argument. A factual note can prime
 an answer too if it already explains why the machine is or is not justified.
 
-## Check slip · release at 14:00
+## Check slip: Check the recommendation · release at 14:00
 
-Underline the factual claim carrying the recommendation. Find its support in the
-results note or figure: the group comparison, time point and uncertainty, if
-reported. Does the text preserve the endpoint—manuscript acceptance—and the
-comparison actually studied? What extra assumption connects that finding to
-the purchase? Keep or revise the reply and explain why.
+1. Which result in the supplied figure or results note supports your recommendation?
 
-A visual gap alone does not establish statistical significance. An unreported
-median is not available merely because the agent supplies one. A careful or
-conditional recommendation is valid, but not mandatory if the reasoning supports
-another choice. No specific headline or conclusion is the answer key.
+2. What else are you assuming when you use that result to recommend buying or not buying the machine?
 
 ## Reflection · release at 14:10
 

@@ -1,13 +1,5 @@
-# Station 2 — check slip · release at 14:00, after the first output
+# Station 2 — check slip: Check the analysis · release at 14:00
 
-Read the vertical axis aloud. What does a higher or lower value mean here?
-Trace one researcher without an observed acceptance: were they included until
-the end of observation, or dropped/counted as an event? Use the input records
-and the analysis to check. Revise your figure or explanation if needed.
-What uncertainty does your figure show or leave out? A visible difference alone
-does not demonstrate a treatment effect.
+1. Look at the code or calculations behind the figure. Did the agent use the event indicator and handle censoring correctly?
 
-If you are using the prepared fallback figure without an executed analysis,
-check the axis and compare the accepted/still-waiting counts with analysis.csv.
-Do not claim that this proves each person was included in the plotted curve;
-mark that part unverified without a readable computation.
+2. Which analysis or presentation choice most influences the conclusion? Would you keep it or change it?

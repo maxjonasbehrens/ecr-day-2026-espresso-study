@@ -39,3 +39,7 @@ First ask what is blocking progress. Then offer a small hint, then concrete supp
 Do teams reach a useful first output? Can they verify one part without asking the same agent for reassurance? Can they identify one decision they accepted, changed or only noticed afterwards? Capture friction and approximate human times during rehearsal; the earlier agent pilot did not measure these.
 
 Do not compare teams by number of corrections or amount of delegation. There is no mandatory anti-coffee headline.
+
+## Using the two-question check slips
+
+Give teams only the two questions for their station. For Station 1, participant ID means researcher_id in the supplied data, not someone at the table. Station 2 assumes a biostatistics audience and asks them to inspect the agent's analysis. If a team has only the prepared fallback figure and no code or calculations, say that the first check cannot be completed from that figure alone; do not treat the reference note as proof of correct computation. Discuss the second question with the material available.

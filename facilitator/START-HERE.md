@@ -18,13 +18,25 @@ Unzip every participant pack onto each backup device before the session. Keep th
 
 ## Running order
 - 13:30–13:35: introduce the director's request, useful output and source-based checking.
-- 13:35–13:40: demonstrate unzipping, attaching the named files, and opening/saving an output. Establish teams/device sharing. Confirm actual code execution at Station 2 now. If unavailable, move a capable backup device/account there; if none exists, introduce the review variant immediately rather than waiting until 13:55.
+- 13:35–13:40: each small team opens its station on the website, downloads and unzips the pack, and opens a chat or agent task with the named files. The task, file list and selectable starter prompt are together on the page. Facilitators check each team has the files available and can send a request. Confirm actual code execution at Station 2 now. If unavailable, move a capable backup device/account there; if none exists, introduce the review variant immediately rather than waiting until 13:55.
 - 13:40–14:00: work with the agent. At 13:50 check that each team has a first output; offer help. At 13:55 offer a fallback if blocked.
 - 14:00–14:10: hand out that station's check slip; check one important claim against the original input.
 - 14:10–14:12: reveal the shared reflection slip.
 - 14:12–14:15: choose one report per station; remaining time is buffer.
-- 14:15–14:25: four reports, at most two minutes each, with two minutes total buffer. Include result, check and one delegated decision.
+- 14:15–14:25: four reports, at most two minutes each, with two minutes total buffer. Use the shared report format below: one result, one checked detail and one delegated decision.
 - 14:25–14:30: personal transfer sentence and closing.
+
+## Shared announcements and station reports
+
+The lead announces transitions for all tables. Facilitators support their teams without running separate clocks.
+
+- 13:40: “Your files are ready. Work with your chat or agent to produce the result described in your station task.”
+- 14:00: “Keep your result open. Your facilitator will give you two questions to check it.”
+- 14:10: “Now look back at your conversation. Use the reflection slip to discuss which decisions you handed over.”
+- 14:12: “Choose one speaker for your table. You have two minutes: show one result, explain one detail you checked against the supplied data or sources, and name one decision you left to the agent.”
+- 14:15: begin the four reports; keep each to two minutes.
+
+Report template: “This is our result. We checked ___ against ___. We left ___ to the agent; next time we would ___.” A correct output needs no invented criticism. Teams can show a laptop locally or describe the result.
 
 ## Opening script
 “The institute wants a rather expensive espresso machine. The director is hoping science will support the purchase. Each table has a research task. Work with your agent to produce something useful, then check an important part against the supplied evidence. Ask us for help if your tool gets stuck.”

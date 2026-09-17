@@ -8,7 +8,9 @@ Look at your actual result and conversation. Pick two decisions built into the o
 
 Keeping the agent's choice can be deliberate and useful. You do not need to find a mistake or change something to succeed.
 
-For your station report: “The agent decided ___. We noticed when ___. Next time we would ___.”
+For your station report (two minutes per table): show one result, name one detail you checked against the supplied data or sources, and describe one delegated decision.
+
+“This is our result. We checked ___ against ___. We left ___ to the agent; next time we would ___.”
 
 # Personal transfer · 14:25
 

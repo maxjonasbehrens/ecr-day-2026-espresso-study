@@ -3,3 +3,5 @@
 .download-icon{width:24px;height:24px;flex-shrink:0}
 
 .chat-help{font-size:13px;color:var(--green);text-underline-offset:3px}.getting-started>p{font-size:14px;max-width:760px}.getting-started>p.small{font-size:12px;margin-top:25px}@media(min-width:761px){.getting-started ol{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+.prompt-label{display:block;font-weight:600;margin:18px 0}.prompt-label span{display:block;font-size:12px;font-weight:400}.prompt-label textarea{display:block;box-sizing:border-box;width:100%;margin-top:8px;padding:12px;font:inherit;font-weight:400;line-height:1.5;color:var(--green);background:#fffdf8;border:1px solid #b7b9ad;border-radius:4px;resize:vertical}.station>.brief{margin-top:20px}

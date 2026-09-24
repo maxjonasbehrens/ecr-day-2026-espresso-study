@@ -28,7 +28,7 @@ Source guidance checked 17 September 2026. Reference analysis verified for versi
 
 1. Look at the code or calculations behind the figure. Did the agent use the event indicator and handle censoring correctly?
 
-2. Which analysis or presentation choice most influences the conclusion? Would you keep it or change it?
+2. Compare the two groups at the median and at day 365. Do both tell the same story? Which would you put in the headline?
 
 ## Facilitation and delayed reflection
 
@@ -40,8 +40,8 @@ For that display, check confidence intervals, censoring marks, risk counts and
 axis direction. Other defensible displays can be discussed rather than forced
 into a predetermined answer. Record any facilitator guidance in the reflection.
 
-At 14:10, use `delegation-reflection.md` for a two-minute look back and then select
-the station report. Keep the first output available; distinguish choices the
+At 14:10, use `delegation-reflection.md` for a short look back and then submit
+the team's Mentimeter answer. Keep the first output available; distinguish choices the
 agent made initially from changes the group requested or consciously accepted.
 The initial card ends at the separator above. Give the check slip later and
 keep organizer/reflection material out of the starting pack.

@@ -1,6 +1,6 @@
 # Facilitator materials
 
-Start with the [session guide](START-HERE.md). It covers setup, timing, support and fallback options.
+Start with the [session guide](START-HERE.md). It covers the small-team flow, timing, announcements, support and fallback options.
 
 ## Station notes
 
@@ -9,14 +9,18 @@ Start with the [session guide](START-HERE.md). It covers setup, timing, support 
 - [Station 3: find the evidence](station-03-notes.md)
 - [Station 4: write the reply](station-04-notes.md)
 
-## Hand out later
+## Released on the website
 
-At 14:00, give each table its check slip:
-[Station 1](check-station-01.md), [Station 2](check-station-02.md),
-[Station 3](check-station-03.md), [Station 4](check-station-04.md).
+The participant page unlocks these at fixed Freiburg times; nothing needs to be handed out.
+Add `?open=all` to the page URL to preview everything.
 
-At 14:10, give out the [reflection prompts](reflection-slip.md).
-Read the [facilitation notes on delegation](delegation-background.md) beforehand.
+- 13:50: prepared fallback for Stations 1 and 2
+- 14:00: each station's two check questions:
+  [Station 1](check-station-01.md), [Station 2](check-station-02.md),
+  [Station 3](check-station-03.md), [Station 4](check-station-04.md)
+- 14:10: the [reflection and Mentimeter step](reflection-slip.md)
+
+Set up the [Mentimeter slides](menti-slides.md) beforehand. Read the [facilitation notes on delegation](delegation-background.md).
 
 ## Reference and fallback materials
 
@@ -26,9 +30,7 @@ Read the [facilitation notes on delegation](delegation-background.md) beforehand
 
 ## Print or download
 
-- [Printable starting cards](https://maxjonasbehrens.github.io/ecr-day-2026-espresso-study/facilitator/starting-cards.html)
-- [Printable check and reflection slips](https://maxjonasbehrens.github.io/ecr-day-2026-espresso-study/facilitator/late-release-slips.html)
+- [Printable guide](guide.html)
 - [Download everything as a ZIP](facilitator-pack.zip)
 
 These materials are public but not linked from the participant page.
-Keep the check slips and reflection prompts until their indicated release times.

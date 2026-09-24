@@ -1,6 +1,6 @@
 # Facilitator guide — keep separate from participant downloads
 
-Version 1.1 · 17 September 2026 · local rehearsal edition
+Version 1.2 · 24 September 2026 · small-team, website-led edition
 
 ## Purpose
 Participants should leave wanting to use agents, able to get a useful contribution, and more confident judging the result. At the end they notice how much decision-making they delegated and decide what they want to delegate next time. More delegation is not a lower score.
@@ -8,54 +8,55 @@ Participants should leave wanting to use agents, able to get a useful contributi
 Do not introduce the delegation reflection before work begins. Give an open task with sufficient factual definitions; do not hide needed information or manufacture a mistake. A good first output is a success. Guide when needed, without insisting on one prompt or a predetermined purchasing verdict.
 
 ## Room and preparation
-Four fixed stations; no rotation. Up to 40 people means roughly ten per table, ideally small teams of two or three sharing a laptop. Have the four supplied devices logged in and tested as backup. If only those devices are available, let small teams prepare requests/checks on paper and take turns at the shared device; this gives less individual hands-on time and is a fallback, not the preferred arrangement.
+No fixed tables. Participants form small teams of 2–4 around one laptop and choose any station on the website; teams stay with that station for the whole session. Uneven station numbers are fine because teams work independently. Expect far fewer people than the ~130 registered; the flow is the same for 20 or 100.
 
-Max reported after the 17 September meeting that he successfully tried the workflow with a free Claude account in normal chat. This is a reported hands-on check, not a guarantee that every account or station was tested. A paid subscription is not required. Participants can use either normal chat or an agent with access to the station files. Use the participant page's chat-or-agent guide for setup; help teams with usage or upload limits without asking them to upgrade.
+The website carries the flow: task, files and starter prompt from the start; a prepared fallback for Stations 1 and 2 from 13:50; each station's two check questions from 14:00; the shared reflection and Mentimeter instructions from 14:10. Unlock times follow Freiburg time (Europe/Berlin), not the laptop clock. Before 1 October everything shows as locked; add `?open=all` to the URL to preview.
 
-One facilitator per station; the lead can cover one. Station 2 needs an agent capable of executing analysis/plotting code. Test the actual account, file upload and code execution before the event; a paid plan alone does not guarantee the needed capability. Stations 3 and 4 can use a text chat; provide sources explicitly if browsing is unavailable. Invite existing laptops/accounts in advance; no subscription purchase required.
+Max tested Station 2 code execution with a Claude Free account on 24 September. A paid subscription is not required. Participants can use normal chat or an agent with access to the station files. Help teams with usage or upload limits without asking them to upgrade.
 
-Unzip every participant pack onto each backup device before the session. Keep this facilitator ZIP separate. Print the late-release HTML slips with the browser print function. Bring station numbers and printed starting cards. No large screen is needed: each station appoints a speaker, who can describe the result or show a laptop locally.
+Three facilitators: the lead (projector, announcements, Mentimeter) plus two helpers who walk between teams. Helpers prioritise teams at Station 2 (code) and Station 1 (data). Stations 3 and 4 need a text chat only.
+
+Print: one QR code poster or slide for the website, and this guide for each facilitator. No station signs, cards or slips. Set up the two Mentimeter slides beforehand (`menti-slides.md`); one device per team answers.
 
 ## Running order
-- 13:30–13:35: introduce the director's request, useful output and source-based checking.
-- 13:35–13:40: each small team opens its station on the website, downloads and unzips the pack, and opens a chat or agent task with the named files. The task, file list and selectable starter prompt are together on the page. Facilitators check each team has the files available and can send a request. Confirm actual code execution at Station 2 now. If unavailable, move a capable backup device/account there; if none exists, introduce the review variant immediately rather than waiting until 13:55.
-- 13:40–14:00: work with the agent. At 13:50 check that each team has a first output; offer help. At 13:55 offer a fallback if blocked.
-- 14:00–14:10: hand out that station's check slip; check one important claim against the original input.
-- 14:10–14:12: reveal the shared reflection slip.
-- 14:12–14:15: choose one report per station; remaining time is buffer.
-- 14:15–14:25: four reports, at most two minutes each, with two minutes total buffer. Use the shared report format below: one result, one checked detail and one delegated decision.
-- 14:25–14:30: personal transfer sentence and closing.
+- 13:30–13:35: opening script; website QR code on the projector. Form teams of 2–4 with one laptop, choose a station, download the pack, open a chat or agent.
+- 13:35–14:00: work with the agent (25 min). Helpers check at 13:45 that teams have sent a first request and at 13:50 that they have a first output. From 13:50 the website offers the prepared fallback for Stations 1 and 2.
+- 14:00–14:10: the website shows each station's two check questions; teams check one important claim against the original input.
+- 14:10–14:15: the website shows the reflection; each team answers Mentimeter slide 1 on one device.
+- 14:15–14:20: show slide 1 by station; read one or two answers per station and invite short reactions from the room.
+- 14:20–14:25: slide 2, 2×2 grid; each team places all four stations. Discuss where the room agrees or splits.
+- 14:25–14:30: personal transfer sentence and closing line.
 
-## Shared announcements and station reports
+## Shared announcements
 
-The lead announces transitions for all tables. Facilitators support their teams without running separate clocks.
+The lead announces every transition from the front. Helpers support teams without running separate clocks.
 
-- 13:40: “Your files are ready. Work with your chat or agent to produce the result described in your station task.”
-- 14:00: “Keep your result open. Your facilitator will give you two questions to check it.”
-- 14:10: “Now look back at your conversation. Use the reflection slip to discuss which decisions you handed over.”
-- 14:12: “Choose one speaker for your table. You have two minutes: show one result, explain one detail you checked against the supplied data or sources, and name one decision you left to the agent.”
-- 14:15: begin the four reports; keep each to two minutes.
+- 13:35: “Your files are ready. Work with your chat or agent to produce the result described in your station task.”
+- 14:00: “Keep your result open. Reload the website: under your station you now find two questions to check it.”
+- 14:10: “Look back at your conversation with the reflection questions on the website. Then one person per team answers on Mentimeter.”
+- 14:15: “Let's look at what you handed over, station by station.”
+- 14:20: “As a team, place all four stations on the grid, including the ones you did not work on.”
 
-Report template: “This is our result. We checked ___ against ___. We left ___ to the agent; next time we would ___.” A correct output needs no invented criticism. Teams can show a laptop locally or describe the result.
+A correct output needs no invented criticism.
 
 ## Opening script
-“The institute wants a rather expensive espresso machine. The director is hoping science will support the purchase. Each table has a research task. Work with your agent to produce something useful, then check an important part against the supplied evidence. Ask us for help if your tool gets stuck.”
+“The institute wants a rather expensive espresso machine. The director is hoping science will support the purchase. Form a small team around one laptop, open the website and pick one of four research tasks. Work with your agent to produce something useful; at 14:00 the website gives you two questions to check it. Ask us for help if your tool gets stuck.”
 
 ## Help ladder and fallback
 First ask what is blocking progress. Then offer a small hint, then concrete support. Keep the original output and note facilitator input for the later reflection.
-- Station 1: point to the export guide and record key. If blocked, release reference-analysis.csv and reference-handover.md for review.
+- Station 1: point to the export guide and record key. If blocked, point to the prepared table on the website (from 13:50) for review.
 - Station 2 review variant: “Use the supplied figure and results note to prepare a headline and two-sentence interpretation. Ask your agent for one useful revision, then check what you can against the inputs.” State that live plotting is unavailable.
-- Station 2: ask how to retain people still waiting; name Kaplan–Meier if needed. If code is unavailable, release reference-figure.png and reference-results.md. Let the team check and annotate the figure and request a revision in words. This substitutes review for live plotting.
+- Station 2: ask how to retain people still waiting; name Kaplan–Meier if needed. If code is unavailable, point to the prepared figure and results note on the website (from 13:50). Let the team check and annotate the figure and request a revision in words. This substitutes review for live plotting.
 - Station 3: use original sources first. If inaccessible, use the source cards and check a claim covered by their quoted passages. Other claims remain unverified. The fallback is not a full-paper review.
 - Station 4: if no agent works, draft a recommendation from the prepared figure/note and describe the revision request they would give an agent. Record the missing live-agent experience.
 
 ## What to observe
-Do teams reach a useful first output? Can they verify one part without asking the same agent for reassurance? Can they identify one decision they accepted, changed or only noticed afterwards? Capture friction and approximate human times during rehearsal; the earlier agent pilot did not measure these.
+Do teams reach a useful first output? Can they verify one part without asking the same agent for reassurance? Can they identify one decision they accepted, changed or only noticed afterwards? There is no human rehearsal; note friction and rough times on the day.
 
 Do not compare teams by number of corrections or amount of delegation. There is no mandatory anti-coffee headline.
 
-## Using the two-question check slips
+## The two check questions
 
-Give teams only the two questions for their station. For Station 1, participant ID means researcher_id in the supplied data, not someone at the table. Station 2 assumes a biostatistics audience and asks them to inspect the agent's analysis. If a team has only the prepared fallback figure and no code or calculations, say that the first check cannot be completed from that figure alone; do not treat the reference note as proof of correct computation. Discuss the second question with the material available.
+Each station shows only its own two questions. For Station 1, participant ID means researcher_id in the supplied data, not someone at the table. Station 2 assumes a biostatistics audience and asks them to inspect the agent's analysis. If a team has only the prepared fallback figure and no code or calculations, say that the first check cannot be completed from that figure alone; do not treat the reference note as proof of correct computation. Discuss the second question with the material available.
 
 Claude upload/file-creation instructions were checked against the official help on 17 September 2026: https://support.claude.com/en/articles/8241126-upload-files-to-claude and https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude. File creation/code execution are available on Free; usage limits still apply.

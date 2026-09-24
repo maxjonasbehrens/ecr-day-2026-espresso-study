@@ -8,9 +8,13 @@ Look at your actual result and conversation. Pick two decisions built into the o
 
 Keeping the agent's choice can be deliberate and useful. You do not need to find a mistake or change something to succeed.
 
-For your station report (two minutes per table): show one result, name one detail you checked against the supplied data or sources, and describe one delegated decision.
+# Share on Mentimeter · one device per team
 
-“This is our result. We checked ___ against ___. We left ___ to the agent; next time we would ___.”
+Go to menti.com and enter the code shown on the projector.
+
+“Station ___: we left ___ to the agent. Next time we would ___.”
+
+When the grid appears, place all four stations as a team: how easy is the result to check, and would you delegate this task again?
 
 # Personal transfer · 14:25
 

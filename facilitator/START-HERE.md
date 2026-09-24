@@ -1,62 +1,43 @@
-# Facilitator guide — keep separate from participant downloads
+# Facilitator guide · ECR Day, 1 October, 13:30–14:30
 
-Version 1.2 · 24 September 2026 · small-team, website-led edition
+Website: majobe.eu/coffee. To see every step before the session, open
+https://maxjonasbehrens.github.io/ecr-day-2026-espresso-study/?open=all
 
-## Purpose
-Participants should leave wanting to use agents, able to get a useful contribution, and more confident judging the result. At the end they notice how much decision-making they delegated and decide what they want to delegate next time. More delegation is not a lower score.
+## The idea
 
-Do not introduce the delegation reflection before work begins. Give an open task with sufficient factual definitions; do not hide needed information or manufacture a mistake. A good first output is a success. Guide when needed, without insisting on one prompt or a predetermined purchasing verdict.
+Small teams use an AI agent on one research task, check one part of the result, and then talk about which decisions they left to the agent. A good first output is fine. Nobody has to find a mistake, and delegating a lot is not a failure.
 
-## Room and preparation
-No fixed tables. Participants form small teams of 2–4 around one laptop and choose any station on the website; teams stay with that station for the whole session. Uneven station numbers are fine because teams work independently. Expect far fewer people than the ~130 registered; the flow is the same for 20 or 100.
+## Timeline
 
-The website carries the flow: task, files and starter prompt from the start; a prepared fallback for Stations 1 and 2 from 13:50; each station's two check questions from 14:00; the shared reflection and Mentimeter instructions from 14:10. Unlock times follow Freiburg time (Europe/Berlin), not the laptop clock. Before 1 October everything shows as locked; add `?open=all` to the URL to preview.
+- **13:30** Max opens with the QR code on screen. Teams of 2–4 form around one laptop and pick a station on the website.
+- **13:35** Teams work with their agent.
+- **13:50** Stuck teams at Stations 1 and 2 can open prepared material on the website.
+- **14:00** The website shows two check questions for each station.
+- **14:10** The website shows the reflection. One device per team answers on Mentimeter.
+- **14:15** Max goes through the answers station by station.
+- **14:20** Teams place all four stations on the Mentimeter grid, then short discussion.
+- **14:28** Take-home question and close.
 
-Max tested Station 2 code execution with a Claude Free account on 24 September. A paid subscription is not required. Participants can use normal chat or an agent with access to the station files. Help teams with usage or upload limits without asking them to upgrade.
+The website unlocks each step by itself at these times (Freiburg time). Max announces every step from the front.
 
-Three facilitators: the lead (projector, announcements, Mentimeter) plus two helpers who walk between teams. Helpers prioritise teams at Station 2 (code) and Station 1 (data). Stations 3 and 4 need a text chat only.
+## What helpers do
 
-Print: one QR code poster or slide for the website, and this guide for each facilitator. No station signs, cards or slips. Set up the two Mentimeter slides beforehand (`menti-slides.md`); one device per team answers.
+Walk around, help teams get started and answer questions. You don't need to stay with one team. Stations 1 and 2 need the most help because they involve data files and code.
 
-## Running order
-- 13:30–13:35: opening script; website QR code on the projector. Form teams of 2–4 with one laptop, choose a station, download the pack, open a chat or agent.
-- 13:35–14:00: work with the agent (25 min). Helpers check at 13:45 that teams have sent a first request and at 13:50 that they have a first output. From 13:50 the website offers the prepared fallback for Stations 1 and 2.
-- 14:00–14:10: the website shows each station's two check questions; teams check one important claim against the original input.
-- 14:10–14:15: the website shows the reflection; each team answers Mentimeter slide 1 on one device.
-- 14:15–14:20: show slide 1 by station; read one or two answers per station and invite short reactions from the room.
-- 14:20–14:28: slide 2, 2×2 grid; each team places all four stations. Discuss where the room agrees or splits.
-- 14:28–14:30: “Take home” slide. Ask aloud: “What will you hand to an agent, and what will you keep for yourself?” Allow 30 seconds of silence, then close: “Agents can make many of the choices, not just do the work. Notice which ones you hand over.”
+Common problems:
 
-## Shared announcements
+- A file won't upload: paste its contents into the chat together with the file name.
+- Claude won't run code: turn on Settings > Capabilities > Code execution and file creation.
+- A team hits a usage limit: they can join another team or work with the prepared material. Nobody needs a paid account.
+- A team has nothing by 13:50: point them to "Stuck? Prepared material" under their station.
 
-The lead announces every transition from the front. Helpers support teams without running separate clocks.
+## The four stations
 
-- 13:35: “Your files are ready. Work with your chat or agent to produce the result described in your station task.”
-- 14:00: “Keep your result open. Reload the website: under your station you now find two questions to check it.”
-- 14:10: “Look back at your conversation with the reflection questions on the website. Then one person per team answers on Mentimeter.”
-- 14:15: “Let's look at what you handed over, station by station.”
-- 14:20: “As a team, place all four stations on the grid, including the ones you did not work on.”
+1. Data. Two messy exports become one analysis table. Worth a look: how the agent handles the untidy IDs and Yes/No/0 codes, and whether people without an acceptance stay in the table with 365 days.
+2. Figure. The team makes a results figure. Kaplan–Meier is the expected route; if a team asks how to handle people who are still waiting, you can name it. The interesting part: the medians differ (176 vs 226 days), but both groups have 19 of 30 accepted by day 365.
+3. Literature. A short background paragraph from two papers. Worth a look: whether the claim matches what the papers actually tested (short lab tasks, not manuscript acceptance).
+4. Recommendation. A reply to the director. The study compares coffee types, not machines. Any recommendation is fine as long as the team can say what it rests on.
 
-A correct output needs no invented criticism.
+## If something breaks
 
-## Opening script
-“The institute wants a rather expensive espresso machine. The director is hoping science will support the purchase. Form a small team around one laptop, open the website and pick one of four research tasks. Work with your agent to produce something useful; at 14:00 the website gives you two questions to check it. Ask us for help if your tool gets stuck.”
-
-## Help ladder and fallback
-First ask what is blocking progress. Then offer a small hint, then concrete support. Keep the original output and note facilitator input for the later reflection.
-- Station 1: point to the export guide and record key. If blocked, point to the prepared table on the website (from 13:50) for review.
-- Station 2 review variant: “Use the supplied figure and results note to prepare a headline and two-sentence interpretation. Ask your agent for one useful revision, then check what you can against the inputs.” State that live plotting is unavailable.
-- Station 2: ask how to retain people still waiting; name Kaplan–Meier if needed. If code is unavailable, point to the prepared figure and results note on the website (from 13:50). Let the team check and annotate the figure and request a revision in words. This substitutes review for live plotting.
-- Station 3: use original sources first. If inaccessible, use the source cards and check a claim covered by their quoted passages. Other claims remain unverified. The fallback is not a full-paper review.
-- Station 4: if no agent works, draft a recommendation from the prepared figure/note and describe the revision request they would give an agent. Record the missing live-agent experience.
-
-## What to observe
-Do teams reach a useful first output? Can they verify one part without asking the same agent for reassurance? Can they identify one decision they accepted, changed or only noticed afterwards? There is no human rehearsal; note friction and rough times on the day.
-
-Do not compare teams by number of corrections or amount of delegation. There is no mandatory anti-coffee headline.
-
-## The two check questions
-
-Each station shows only its own two questions. For Station 1, participant ID means researcher_id in the supplied data, not someone at the table. Station 2 assumes a biostatistics audience and asks them to inspect the agent's analysis. If a team has only the prepared fallback figure and no code or calculations, say that the first check cannot be completed from that figure alone; do not treat the reference note as proof of correct computation. Discuss the second question with the material available.
-
-Claude upload/file-creation instructions were checked against the official help on 17 September 2026: https://support.claude.com/en/articles/8241126-upload-files-to-claude and https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude. File creation/code execution are available on Free; usage limits still apply.
+If the wifi or Mentimeter fails, Max shows the slides as a PDF and teams say their answers out loud. If an agent doesn't work at all, the team reviews the prepared material and does the check questions on that.

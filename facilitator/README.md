@@ -1,6 +1,6 @@
 # Facilitator materials
 
-Start with the [session guide](START-HERE.md). It covers the small-team flow, timing, announcements, support and fallback options.
+Start with the [session guide](START-HERE.md). It covers the timeline, what helpers do, common problems and the four stations.
 
 ## Station notes
 

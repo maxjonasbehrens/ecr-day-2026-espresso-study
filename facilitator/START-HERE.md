@@ -24,8 +24,8 @@ Print: one QR code poster or slide for the website, and this guide for each faci
 - 14:00–14:10: the website shows each station's two check questions; teams check one important claim against the original input.
 - 14:10–14:15: the website shows the reflection; each team answers Mentimeter slide 1 on one device.
 - 14:15–14:20: show slide 1 by station; read one or two answers per station and invite short reactions from the room.
-- 14:20–14:25: slide 2, 2×2 grid; each team places all four stations. Discuss where the room agrees or splits.
-- 14:25–14:30: personal transfer sentence and closing line.
+- 14:20–14:28: slide 2, 2×2 grid; each team places all four stations. Discuss where the room agrees or splits.
+- 14:28–14:30: “Take home” slide. Ask aloud: “What will you hand to an agent, and what will you keep for yourself?” Allow 30 seconds of silence, then close: “Agents can make many of the choices, not just do the work. Notice which ones you hand over.”
 
 ## Shared announcements
 

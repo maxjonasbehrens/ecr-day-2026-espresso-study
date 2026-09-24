@@ -15,7 +15,7 @@ Settings: several answers per participant off; show results as a list, not a
 word cloud; hide results until 14:15. At 14:15 read one or two answers per
 station and ask the room for a short reaction.
 
-## Slide 2 · 2×2 grid · 14:20–14:25
+## Slide 2 · 2×2 grid · 14:20–14:28
 
 Question: **Where would you place each station's task?**
 
@@ -28,7 +28,11 @@ Axis y: “I would decide myself” → “I would delegate again”
 Each team places all four stations, including those it did not work on. Show
 the averaged grid and ask: where did the room agree, where did it split?
 
-## Closing slide (no interaction) · 14:25–14:30
+## Closing slide "Take home" (no interaction) · 14:28–14:30
 
-“For ___ in my own work, I would let the agent decide ___. Before using the
-result, I would want to understand or decide ___ myself.”
+Question: “What will you hand to an agent, and what will you keep for yourself?”
+
+Line below: “Agents can make many of the choices, not just do the work. Notice
+which ones you hand over.”
+
+Ask the question aloud, allow 30 seconds of silence, then read the line.

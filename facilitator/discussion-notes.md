@@ -8,4 +8,4 @@ Station 3: compare the actual intervention, participants and outcome with the in
 
 Station 4: the study compares coffee assignments, not expensive versus cheap machines. A recommendation may be conditional, affirmative for a different explicitly stated reason, or negative. Check which extra assumptions connect the study to the purchase. Separate the factual claim from the team's value judgement. Do not reward skepticism for its own sake.
 
-Closing: “Agents can make many of the choices as well as do the work. The useful question is whether we noticed those choices and are comfortable handing them over.”
+Closing: “Agents can make many of the choices, not just do the work. Notice which ones you hand over.”

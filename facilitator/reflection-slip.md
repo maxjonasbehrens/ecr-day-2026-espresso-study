@@ -16,6 +16,6 @@ Go to menti.com and enter the code shown on the projector.
 
 When the grid appears, place all four stations as a team: how easy is the result to check, and would you delegate this task again?
 
-# Personal transfer · 14:25
+# To take home · after the session
 
 “For ___ in my own work, I would let the agent decide ___. Before using the result, I would want to understand or decide ___ myself.”
